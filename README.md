@@ -1,2 +1,12 @@
-# netflix-clone-html-css
-Created a netflix clone using HTML and CSS
+# Netflix Landing Page Clone
+
+## Overview
+This is a front-end clone of Netflix homepage.
+
+## Tools Used
+- HTML
+- CSS
+
+## Features
+- Responsive layout
+- Clean UI design
